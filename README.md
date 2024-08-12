@@ -14,8 +14,8 @@ Header and footer are there in all the pages.
 <br>![Expereince](https://github.com/madgepereira020701/portfolio/blob/main/Portfolio%20Madge/Website%20Snapshots/Experience.JPG)<br><br>
 <br>4. Projects Page:
 <br><br>Projects which I did are displayed here.
-<br><br>![Projects](https://github.com/madgepereira020701/portfolio/blob/main/Portfolio%20Madge/Website%20Snapshots/Projects.JPG)<br><br>
+<br>![Projects](https://github.com/madgepereira020701/portfolio/blob/main/Portfolio%20Madge/Website%20Snapshots/Projects.JPG)<br><br>
 <br>5. Project Details Page:
 <br><br>Each project description layout is similar to this one.
-<br><br>![Project Details](https://github.com/madgepereira020701/portfolio/blob/main/Portfolio%20Madge/Website%20Snapshots/Project%20Details.JPG)<br><br>
+<br>![Project Details](https://github.com/madgepereira020701/portfolio/blob/main/Portfolio%20Madge/Website%20Snapshots/Project%20Details.JPG)<br><br>
 
